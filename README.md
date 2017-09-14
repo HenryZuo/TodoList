@@ -3,7 +3,7 @@ Online to-do list on react-redux
 
 ## Project Purpose
 
-Needed a project to learn react-redux with. So I built this.
+Needed a project to practice react-redux with. So I built this.
 
 ## Key Features
 
